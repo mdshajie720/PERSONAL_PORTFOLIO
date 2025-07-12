@@ -1,0 +1,61 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+*.DS_Store
+
+# Local IDE settings
+.idea/
+
+# Optional: ignore 3D model source files if not needed in repo
+# public/desktop_pc/scene.bin
+# public/desktop_pc/scene.gltf
+# public/desktop_pc/textures/
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.env
+
+# vscode
+.vscode
